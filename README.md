@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am passionate about technology, programming, and
 - Software development teams where we can share knowledge and contribute to impactful work.
 
 ## 📫 How to Reach Me:
-- Feel free to reach out via email: [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+- Feel free to reach out via email: [khanhaovl18@example.com].
   
 ## 😄 Pronouns:
 - He/Him
